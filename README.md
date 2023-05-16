@@ -11,3 +11,5 @@
 <img src="https://img.shields.io/badge/DJANGO-3776AB?style=flat-square&logo=Django&logoColor=##0F291B"/>
 
 <img src="https://img.shields.io/badge/ANDROID-3776AB?style=flat-square&logo=Android&logoColor=#4A8766"/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
