@@ -2,16 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=import+unittest+class&font=Redressed&size=40)](https://git.io/typing-svg)
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunity&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=yunity&theme=tokyonight&show_icons=true" width="42%" />
-</a>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=gangyuji&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dkssud8150&theme=flat&column=7)](https://github.com/dkssud8150/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dkssud8150&theme=flat&column=7)](https://github.com/gangyuji/)
 
 
 
