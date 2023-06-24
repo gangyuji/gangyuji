@@ -12,6 +12,10 @@
 </a>
 <img src="https://raw.githubusercontent.com/gangyuji/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 
+![](https://raw.githubusercontent.com/gangyuji/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/gangyuji/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+
 
 [![yunity's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gangyuji&theme=default)](https://github.com/gangyuji/github-readme-activity-graph)
 
