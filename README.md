@@ -4,10 +4,10 @@
 
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunity&exclude_repo=yunity.github.io&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangyuji&exclude_repo=gangyuji.github.io&layout=compact&theme=tokyonight" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=yunity&theme=tokyonight&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gangyuji&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
 
