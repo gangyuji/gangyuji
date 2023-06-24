@@ -10,7 +10,7 @@
 <a href="universe.com">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangyuji&exclude_repo=gangyuji.github.io&layout=compact&theme=tokyonight" />
 </a>
-
+<img src="https://raw.githubusercontent.com/gangyuji/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 
 
 [![yunity's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yunity&theme=default)](https://github.com/gangyuji/github-readme-activity-graph)
