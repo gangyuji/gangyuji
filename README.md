@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=import+unittest+class&font=Redressed&size=40)](https://git.io/typing-svg)
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yunity&theme=nord)](https://github.com/gangyuji/github-readme-activity-graph)
+
 
 [![yunity's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yunity&theme=default)](https://github.com/gangyuji/github-readme-activity-graph)
 
