@@ -19,7 +19,7 @@
 
 
 
-[![yunity's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gangyuji&theme=default)](https://github.com/gangyuji/github-readme-activity-graph)
+[![yunity's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gangyuji&theme=tokyo-night)](https://github.com/gangyuji/github-readme-activity-graph)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gangyuji&theme=flat&column=7)](https://github.com/gangyuji/)
 
