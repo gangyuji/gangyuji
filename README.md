@@ -24,7 +24,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/gangyuji/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+
 
 
 
