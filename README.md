@@ -9,7 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yunity&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dkssud8150&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=gangyuji&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dkssud8150&theme=flat&column=7)](https://github.com/dkssud8150/)
 
