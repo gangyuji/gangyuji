@@ -5,7 +5,7 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yunity&theme=nord)](https://github.com/gangyuji/github-readme-activity-graph)
 
-[![yunity's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yunity&theme=dracula)](https://github.com/gangyuji/github-readme-activity-graph)
+[![yunity's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yunity&theme=default)](https://github.com/gangyuji/github-readme-activity-graph)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dkssud8150&theme=flat&column=7)](https://github.com/gangyuji/)
 
