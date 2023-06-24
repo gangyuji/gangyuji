@@ -12,7 +12,7 @@
 </a>
 <img src="https://raw.githubusercontent.com/gangyuji/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 
-![](https://raw.githubusercontent.com/gangyuji/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
 ![](https://raw.githubusercontent.com/gangyuji/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 
