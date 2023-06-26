@@ -94,7 +94,7 @@
 
 <div align="center">
 <a href="makebestie.com">
-  <img src="https://ifh.cc/g/vato5z.png">
+  <img src="https://ifh.cc/g/vato5z.png" alt="bff logo">
 </a>
 </div>
 
