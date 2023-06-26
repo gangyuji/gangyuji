@@ -93,7 +93,9 @@
 </div>
 
 <div align="center">
-<a>makebestie.com</a>
+<a href="makebestie.com">
+  <img src="https://ifh.cc/g/vato5z.png">
+</a>
 </div>
 
 <div align="center">
