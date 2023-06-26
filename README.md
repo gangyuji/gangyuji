@@ -3,8 +3,8 @@
 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 <div align="center">
-  <img src="https://img.shields.io/badge/python-4579DD?style=for-the-badge&logo=django&logoColor=#ffffff">
-  <img src="https://img.shields.io/badge/django-1E3D2F?style=for-the-badge&logo=python&logoColor=#ffffff">
+  <img src="https://img.shields.io/badge/django-4579DD?style=for-the-badge&logo=django&logoColor=#ffffff">
+  <img src="https://img.shields.io/badge/python-1E3D2F?style=for-the-badge&logo=python&logoColor=#ffffff">
 </div>
 
 
