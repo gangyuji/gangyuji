@@ -6,7 +6,7 @@
 
 <div align="center">
   <h2 style="color:#9E2067;">Best Friend Forever Web Page</h2>
-  <p>
+  <p>내일 배움 캠프 최종 프로젝트</p>
     <dl>
       <dd>개발기간 :</dd>
       <dt font-style="normal">23.06.05 ~ 23.07.10</dt>
