@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/poetry-4FAFDF?style=for-the-badge&logo=poetry&logoColor=#ffffff">
   <img src="https://img.shields.io/badge/celery-BEDC75?style=for-the-badge&logo=celery&logoColor=#ffffff">
   <img src="https://img.shields.io/badge/rabbitmq-E2853D?style=for-the-badge&logo=rabbitmq&logoColor=#ffffff">
+  <br/>
+  <img src="https://img.shields.io/badge/amazonec2-8E492A?style=for-the-badge&logo=amazonec2&logoColor=#ffffff">
 </div>
 
 
