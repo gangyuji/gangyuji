@@ -143,14 +143,14 @@ $ npm install
 
 #### Backend
 ```
-$ .env 파일 생성
-$ poetry shell : 가상 환경 실행
-$ poetry env list : 가상 환경 실행 확인( .venv (Activated) 라고 뜸)
-$ poetry install : 패키지 설치
-$ poetry show poetry show : 설치된 패키지 확인
-$ python manage.py makemigrations
-$ python manage.py migrate
-$ python manage.py runserver
+  $ .env 파일 생성
+  $ poetry shell : 가상 환경 실행
+  $ poetry env list : 가상 환경 실행 확인( .venv (Activated) 라고 뜸)
+  $ poetry install : 패키지 설치
+  $ poetry show poetry show : 설치된 패키지 확인
+  $ python manage.py makemigrations
+  $ python manage.py migrate
+  $ python manage.py runserver
 ```
 
 </div>
