@@ -141,7 +141,7 @@ $ npm install
 $ npm run serve
 ```
 
-  #### Backend
+#### Backend
 ```
 $ .env 파일 생성<br>
 $ poetry shell : 가상 환경 실행
