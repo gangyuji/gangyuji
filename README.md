@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <h2>팀원 소개 및 역할</h2>
+  <h2>🚌 팀원 소개 및 역할</h2>
   <dl>
     <dt font-style="normal">김근혜(끈끈) - 리더</dt>
     <dd> 
