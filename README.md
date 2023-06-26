@@ -1,7 +1,7 @@
 
 <div align="center">
-  <img src="https://ifh.cc/g/Zk8KWM.png"/>
-  <img src="https://ifh.cc/g/Q2sOPw.png"/>
+  <img src="https://ifh.cc/g/Zk8KWM.png" alt="bff thumbnail img"/>
+  <img src="https://ifh.cc/g/Q2sOPw.png" alt="bff logo"/>
 </div>
 
 
@@ -122,11 +122,11 @@
 </div>
 
 <div align="center">
-  <img src="https://ifh.cc/g/nVrVPh.png" alt=""/>
+  <img src="https://ifh.cc/g/nVrVPh.png" alt="BestFriendForever logo"/>
 </div>
 
 <div align="center">
-  <img src="https://ifh.cc/g/L04w0w.png" alt=""/>
+  <img src="https://ifh.cc/g/L04w0w.png" alt="bff thumbnail img"/>
 </div>
 
 
