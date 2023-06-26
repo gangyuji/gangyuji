@@ -117,8 +117,8 @@
     <dl display="flex">
       <a href="https://makebestie.com/">
         <img src="https://ifh.cc/g/vato5z.png" alt="bff_be logo">
+        <dt>bffs backend</dt>
       </a>
-      <dt>bffs backend</dt>
     </dl>
 
   </div>
