@@ -96,7 +96,7 @@
   <h2>🏡 배포 주소</h2>
 </div>
   
-<div width="82px" height="40px"align="center">
+<div width="82px" height="40px">
   <div display="flex">
       <dl>
         <a href="https://api.makebestie.com/">
