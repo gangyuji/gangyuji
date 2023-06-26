@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/python-1E3D2F?style=for-the-badge&logo=python&logoColor=#ffffff">
   <img src="https://img.shields.io/badge/django-4579DD?style=for-the-badge&logo=django&logoColor=#ffffff">
   <img src="https://img.shields.io/badge/poetry-4FAFDF?style=for-the-badge&logo=poetry&logoColor=#ffffff">
-  <img src="https://img.shields.io/badge/poetry-4FAFDF?style=for-the-badge&logo=django&logoColor=#ffffff">
+  <img src="https://img.shields.io/badge/openai-A7C8AF?style=for-the-badge&logo=openai&logoColor=#ffffff">
 </div>
 
 
