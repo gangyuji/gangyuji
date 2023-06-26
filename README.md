@@ -1,10 +1,15 @@
-
-
-
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 <div align="center">
-  <img src="https://img.shields.io/badge/django-4579DD?style=for-the-badge&logo=django&logoColor=#ffffff">
+  <img src="https://img.shields.io/badge/html-D25735?style=for-the-badge&logo=python&logoColor=#ffffff">
+  <img src="https://img.shields.io/badge/css-4D8EC2?style=for-the-badge&logo=django&logoColor=#ffffff">
+  <img src="https://img.shields.io/badge/javascript-F9DD52?style=for-the-badge&logo=django&logoColor=#ffffff">
+  <img src="https://img.shields.io/badge/vue-55B986?style=for-the-badge&logo=django&logoColor=#ffffff">
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/python-1E3D2F?style=for-the-badge&logo=python&logoColor=#ffffff">
+  <img src="https://img.shields.io/badge/django-4579DD?style=for-the-badge&logo=django&logoColor=#ffffff">
+  <img src="https://img.shields.io/badge/poetry-4FAFDF?style=for-the-badge&logo=django&logoColor=#ffffff">
+  <img src="https://img.shields.io/badge/poetry-4FAFDF?style=for-the-badge&logo=django&logoColor=#ffffff">
 </div>
 
 
