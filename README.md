@@ -143,7 +143,7 @@ $ npm run serve
 
 #### Backend
 ```
-$ .env 파일 생성<br>
+$ .env 파일 생성
 $ poetry shell : 가상 환경 실행
 $ poetry env list : 가상 환경 실행 확인( .venv (Activated) 라고 뜸)
 $ poetry install : 패키지 설치
@@ -153,12 +153,6 @@ $ python manage.py migrate
 $ python manage.py runserver
 ```
 
-```
-$ cd voluntain-app
-$ nvm use v.14.19.3
-$ npm install 
-$ npm run dev
-```
 </div>
 
 
