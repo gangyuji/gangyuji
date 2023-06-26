@@ -1,5 +1,5 @@
-<img src="https://img.shields.io/badge/#ffffff?style=for-the-badge&logo=#3776AB&logoColor=#4579DD">
-<img src="https://img.shields.io/badge/#ffffff?style=for-the-badge&logo=#092E20logoColor=#1E3D2F">
+<img src="https://img.shields.io/badge/#ffffff?style=for-the-badge&logo=3776AB&logoColor=#4579DD">
+<img src="https://img.shields.io/badge/#ffffff?style=for-the-badge&logo=092E20logoColor=#1E3D2F">
 
 
 
