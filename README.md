@@ -141,6 +141,9 @@ $ npm install
   $ npm run serve
 ```
 
+
+</div>
+
 #### Backend
 ```python
   $ .env 파일 생성
@@ -153,7 +156,6 @@ $ npm install
   $ python manage.py runserver
 ```
 
-</div>
 
 
 
