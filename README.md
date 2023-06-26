@@ -94,6 +94,8 @@
 
 <div align="center">
   <h2>🏡 배포 주소</h2>
+</div>
+
     <div display="flex">
       <dl>
         <a href="https://api.makebestie.com/">
@@ -102,7 +104,6 @@
       </dl>
       <dt>bffs frontend</dt>
     </div>
-  </div>
   
 <div align="center">
   <div display="flex">
