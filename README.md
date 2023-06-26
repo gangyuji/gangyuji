@@ -143,8 +143,10 @@ $ npm install
 
 
 </div>
+<div align="center">
+  #### Backend
+</div>
 
-#### Backend
 ```python
   $ .env 파일 생성
   $ poetry shell : 가상 환경 실행
