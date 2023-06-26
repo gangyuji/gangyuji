@@ -1,6 +1,5 @@
 
-![BFF (3) (1)](https://github.com/gangyuji/![bffhouse__1_-removebg-preview](https://github.com/gangyuji/gangyuji/assets/130277553/6f02451a-12c4-4661-b1f5-4812749c8b71)
-gangyuji/assets/130277553/3c402ef3-39b2-4cdd-9c3c-d7b802e5d6a1)
+![bffhouse__1_-removebg-preview](https://github.com/gangyuji/gangyuji/assets/130277553/b756e4e1-2589-478f-91da-caa3512d7a3b)
 
 <div align="center">
   <img src="https://img.shields.io/badge/html-D25735?style=for-the-badge&logo=html5&logoColor=white">
