@@ -72,22 +72,22 @@
     <h2 font-weight="bold">🏘️ Stacks</h2>
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/html-D25735?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-4D8EC2?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/html-D25735?style=for-the-badge&logo=html5&logoColor=white" alt="html logo img"/>
+  <img src="https://img.shields.io/badge/css-4D8EC2?style=for-the-badge&logo=css3&logoColor=white" alt="css logo img"/>
   <br/>
-  <img src="https://img.shields.io/badge/javascript-F9DD52?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/vue-55B986?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F9DD52?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript logo img"/>
+  <img src="https://img.shields.io/badge/vue-55B986?style=for-the-badge&logo=vue.js&logoColor=white" alt="vue.js logo img"/>
   <br/>
-  <img src="https://img.shields.io/badge/fontawesome-438ADF?style=for-the-badge&logo=fontawesome&logoColor=white">
-  <img src="https://img.shields.io/badge/axios-7C4791?style=for-the-badge&logo=axios&logoColor=white">
+  <img src="https://img.shields.io/badge/fontawesome-438ADF?style=for-the-badge&logo=fontawesome&logoColor=white" alt="fontawesome logo img"/>
+  <img src="https://img.shields.io/badge/axios-7C4791?style=for-the-badge&logo=axios&logoColor=white" alt="axios logo img"/>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/python-1E3D2F?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/django-4579DD?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/python-1E3D2F?style=for-the-badge&logo=python&logoColor=white" alt="python logo img"/>
+  <img src="https://img.shields.io/badge/django-4579DD?style=for-the-badge&logo=django&logoColor=white" alt="django logo img"/>
   <br/>
-  <img src="https://img.shields.io/badge/poetry-4FAFDF?style=for-the-badge&logo=poetry&logoColor=white">
-  <img src="https://img.shields.io/badge/celery-BEDC75?style=for-the-badge&logo=celery&logoColor=white">
+  <img src="https://img.shields.io/badge/poetry-4FAFDF?style=for-the-badge&logo=poetry&logoColor=white" alt="poetry logo img"/>
+  <img src="https://img.shields.io/badge/celery-BEDC75?style=for-the-badge&logo=celery&logoColor=white" alt="celery logo img"/>
   <img src="https://img.shields.io/badge/gunicorn-5D9551?style=for-the-badge&logo=gunicorn&logoColor=white">
   <img src="https://img.shields.io/badge/rabbitmq-E2853D?style=for-the-badge&logo=rabbitmq&logoColor=white">
   <img src="https://img.shields.io/badge/nginx-419144?style=for-the-badge&logo=nginx&logoColor=#ffffff">
