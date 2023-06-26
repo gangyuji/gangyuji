@@ -100,7 +100,7 @@
       <img src="https://ifh.cc/g/gw8rYq.png" alt="bff_fe logo">
     </a>
   </dl>
-  <dt>bffs 백엔드</dt>
+  <dt>bffs frontend</dt>
   </div>
   
   <div display="flex">
@@ -109,7 +109,7 @@
       <img src="https://ifh.cc/g/vato5z.png" alt="bff_be logo">
     </a>
   </dl>
-  <dt>bffs 백엔드</dt>
+  <dt>bffs backend</dt>
   </div>
 </div>
 
