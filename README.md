@@ -104,6 +104,7 @@
     </div>
   </div>
   
+<div align="center">
   <div display="flex">
     <dl>
       <a href="https://makebestie.com/">
