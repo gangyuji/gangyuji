@@ -141,11 +141,9 @@ $ npm install
   $ npm run serve
 ```
 
-
-</div>
-<div align="center">
   #### Backend
 </div>
+
 
 ```python
   $ .env 파일 생성
