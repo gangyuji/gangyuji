@@ -1,6 +1,6 @@
-<div align="center">
+
 ![bffhouse__1_-removebg-preview](https://github.com/gangyuji/gangyuji/assets/130277553/b756e4e1-2589-478f-91da-caa3512d7a3b)
-</div>
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/html-D25735?style=for-the-badge&logo=html5&logoColor=white">
@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-![BFF (3) (1)](https://github.com/gangyuji/gangyuji/assets/130277553/04d95d62-d2ce-49ee-b2e2-1ff36c268f06)
+<img src="https://ifh.cc/g/Zk8KWM.png"/>
 </div>
 
 
