@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h2 style="color:#9E2067">Best Friend Forever Web Page</h2>
+  <h2 style="color:red">Best Friend Forever Web Page</h2>
   <p>
     <dl>
       <dd>개발기간 :</dd>
