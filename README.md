@@ -93,9 +93,11 @@
 </div>
 
 <div align="center">
+  <h2>🏡 배포 주소</h2>
 <a href="https://makebestie.com/">
   <img src="https://ifh.cc/g/vato5z.png" alt="bff logo">
 </a>
+  <p>bffs 백엔드</p>
 </div>
 
 <div align="center">
