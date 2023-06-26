@@ -1,3 +1,14 @@
+<img src="https://img.shields.io/badge/#ffffff?style=for-the-badge&logo=#3776AB&logoColor=#4579DD">
+<img src="https://img.shields.io/badge/#ffffff?style=for-the-badge&logo=#092E20logoColor=#1E3D2F">
+
+
+
+
+
+
+
+
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚌💨&fontAlign=70)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=import+unittest+class&font=Redressed&size=40)](https://git.io/typing-svg)
