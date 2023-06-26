@@ -4,7 +4,15 @@
   <img src="https://ifh.cc/g/Q2sOPw.png" alt="bff logo"/>
 </div>
 
-
+<div align="center">
+  <h2>Best Friend Forever Web Page</h2>
+  <p>
+    <dl>
+      <dd>개발기간 :</dd>
+      <dt>23.06.05 ~ 23.07.10</dt>
+    </dl>
+  </p>
+</div>
 
 <div align="center">
   <h2 font-weight="bold">🏠 프로젝트 소개</h2>
@@ -96,7 +104,7 @@
   <h2>🏡 배포 주소</h2>
 </div>
   
-<div width="82px" height="40px">
+<div width="82px" height="40px" align="center">
   <div display="flex">
       <dl>
         <a href="https://api.makebestie.com/">
@@ -139,7 +147,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=import+unittest+class&font=Redressed&size=40)](https://git.io/typing-svg)
 
 
-<div align=center> 
+<div align="center"> 
   <a href="universe.com">
     <img src="https://github-readme-stats.vercel.app/api?username=gangyuji&theme=tokyonight&show_icons=true" width="42%" />
   </a>
