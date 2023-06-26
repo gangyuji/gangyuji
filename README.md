@@ -24,6 +24,9 @@
   <img src="https://img.shields.io/badge/amazonec2-8E492A?style=for-the-badge&logo=amazonec2&logoColor=#ffffff">
   <img src="https://img.shields.io/badge/amazons3-D15C4A?style=for-the-badge&logo=amazons3&logoColor=#ffffff">
   <img src="https://img.shields.io/badge/docker-4590B0?style=for-the-badge&logo=docker&logoColor=#ffffff">
+  <br/>
+  <img src="https://img.shields.io/badge/github-171516?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/githubactions-3A6FD7?style=for-the-badge&logo=githubactions&logoColor=#ffffff">
 </div>
 
 
