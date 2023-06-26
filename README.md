@@ -3,8 +3,10 @@
   <img src="https://ifh.cc/g/Zk8KWM.png"/>
 </div>
 
-<h2 font-weight="bold">프로젝트</h2>
-<hr/>
+<div align="center">
+  <h2 font-weight="bold">프로젝트</h2>
+  <hr/>
+</div>
 
 
 <div align="center">
