@@ -104,14 +104,14 @@
   <h2>🏡 배포 주소</h2>
 </div>
   
-<div width="82px" height="40px" align="center">
-  <div style="display:flex">
+<div align="center">
+  <div>
       <dl>
         <a href="https://api.makebestie.com/">
           <img src="https://ifh.cc/g/gw8rYq.png" alt="bff_fe logo">
+          <dt>bffs frontend</dt>
         </a>
       </dl>
-      <dt>bffs frontend</dt>
   </div>
   <div display="flex">
     <dl>
