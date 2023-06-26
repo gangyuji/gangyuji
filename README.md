@@ -142,7 +142,7 @@ $ npm install
 ```
 
 #### Backend
-```
+```python
   $ .env 파일 생성
   $ poetry shell : 가상 환경 실행
   $ poetry env list : 가상 환경 실행 확인( .venv (Activated) 라고 뜸)
