@@ -152,6 +152,13 @@ $ python manage.py makemigrations
 $ python manage.py migrate
 $ python manage.py runserver
 ```
+
+```
+$ cd voluntain-app
+$ nvm use v.14.19.3
+$ npm install 
+$ npm run dev
+```
 </div>
 
 
