@@ -18,6 +18,14 @@
   </p>
 </div>
 
+<div align="center">
+  <h2>팀원 소개 및 역할</h2>
+  <dl>
+    <dt>김근혜(끈끈) - 리더</dt>
+    <dd>커뮤니티</dd>
+  </dl>
+</div>
+
 
 <div align="center">
     <h2 font-weight="bold">🏘️ Stacks</h2>
