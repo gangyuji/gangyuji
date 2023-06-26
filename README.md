@@ -3,7 +3,10 @@
   <img src="https://ifh.cc/g/Zk8KWM.png"/>
 </div>
 
-<p>bffs</p>
+<h2 font-weight="bold">프로젝트</h2>
+<hr/>
+
+
 <div align="center">
   <img src="https://img.shields.io/badge/html-D25735?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-4D8EC2?style=for-the-badge&logo=css3&logoColor=white">
