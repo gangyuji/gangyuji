@@ -124,6 +124,15 @@
   </div>
 </div>
 
+<div align="center">
+  <h2>시작 가이드</h2>
+
+  ### Installation
+  ``` bash
+  $ git git@github.com:Bffs-sparta/BFFs.git
+  ```
+</div>
+
 
 
 <div align="center">
