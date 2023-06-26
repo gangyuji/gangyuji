@@ -113,13 +113,14 @@
         </a>
       </dl>
   </div>
-  <div display="flex">
-    <dl>
+  <div>
+    <dl display="flex">
       <a href="https://makebestie.com/">
         <img src="https://ifh.cc/g/vato5z.png" alt="bff_be logo">
       </a>
+      <dt>bffs backend</dt>
     </dl>
-    <dt>bffs backend</dt>
+
   </div>
 </div>
 
