@@ -106,6 +106,14 @@
     </div>
   
 <div align="center">
+  <div width="auto" height="40px" display="flex">
+      <dl>
+        <a href="https://api.makebestie.com/">
+          <img src="https://ifh.cc/g/gw8rYq.png" alt="bff_fe logo">
+        </a>
+      </dl>
+      <dt>bffs frontend</dt>
+  </div>
   <div display="flex">
     <dl>
       <a href="https://makebestie.com/">
