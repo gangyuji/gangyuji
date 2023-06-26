@@ -1,5 +1,7 @@
 
-![bffhouse__1_-removebg-preview](https://github.com/gangyuji/gangyuji/assets/130277553/b756e4e1-2589-478f-91da-caa3512d7a3b)
+<div align="center">
+  <img src="https://ifh.cc/g/Zk8KWM.png"/>
+</div>
 
 
 <div align="center">
@@ -31,9 +33,7 @@
   <img src="https://img.shields.io/badge/githubactions-3A6FD7?style=for-the-badge&logo=githubactions&logoColor=white">
 </div>
 
-<div align="center">
-<img src="https://ifh.cc/g/Zk8KWM.png"/>
-</div>
+
 
 
 
