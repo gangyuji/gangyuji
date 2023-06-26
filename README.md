@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/html-D25735?style=for-the-badge&logo=html&logoColor=#ffffff">
+  <img src="https://img.shields.io/badge/html-D25735?style=for-the-badge&logo=html5&logoColor=#ffffff">
   <img src="https://img.shields.io/badge/css-4D8EC2?style=for-the-badge&logo=css&logoColor=#ffffff">
   <img src="https://img.shields.io/badge/javascript-F9DD52?style=for-the-badge&logo=javascript&logoColor=#ffffff">
   <img src="https://img.shields.io/badge/vue-55B986?style=for-the-badge&logo=vue&logoColor=#ffffff">
