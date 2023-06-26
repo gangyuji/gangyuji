@@ -94,6 +94,7 @@
 
 <div align="center">
   <h2>🏡 배포 주소</h2>
+</div>
 
 <div display="flex">
   <dl>
@@ -103,18 +104,17 @@
   </dl>
   <dt>bffs 백엔드</dt>
 </div>
+
+<div align="center">
+  <img src="https://ifh.cc/g/frOlgb.png" alt=""/>
 </div>
 
 <div align="center">
-  <img src="https://ifh.cc/g/frOlgb.png"/>
+  <img src="https://ifh.cc/g/nVrVPh.png" alt=""/>
 </div>
 
 <div align="center">
-  <img src="https://ifh.cc/g/nVrVPh.png"/>
-</div>
-
-<div align="center">
-  <img src="https://ifh.cc/g/L04w0w.png"/>
+  <img src="https://ifh.cc/g/L04w0w.png" alt=""/>
 </div>
 
 
