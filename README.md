@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/#ffffff?style=for-the-badge&logo=django&logoColor=#4579DD">
+<img src="https://img.shields.io/badge/#ffffff?style=for-the-badge&logo=Django&logoColor=#4579DD">
 <img src="https://img.shields.io/badge/#ffffff?style=for-the-badge&logo=python&logoColor=#1E3D2F">
 
 
