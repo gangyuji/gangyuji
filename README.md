@@ -96,7 +96,7 @@
   <h2>🏡 배포 주소</h2>
 </div>
 
-    <div display="flex">
+    <div width="auto" height="40px" display="flex">
       <dl>
         <a href="https://api.makebestie.com/">
           <img src="https://ifh.cc/g/gw8rYq.png" alt="bff_fe logo">
