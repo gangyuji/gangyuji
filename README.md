@@ -88,16 +88,16 @@
   <br/>
   <img src="https://img.shields.io/badge/poetry-4FAFDF?style=for-the-badge&logo=poetry&logoColor=white" alt="poetry logo img"/>
   <img src="https://img.shields.io/badge/celery-BEDC75?style=for-the-badge&logo=celery&logoColor=white" alt="celery logo img"/>
-  <img src="https://img.shields.io/badge/gunicorn-5D9551?style=for-the-badge&logo=gunicorn&logoColor=white">
-  <img src="https://img.shields.io/badge/rabbitmq-E2853D?style=for-the-badge&logo=rabbitmq&logoColor=white">
-  <img src="https://img.shields.io/badge/nginx-419144?style=for-the-badge&logo=nginx&logoColor=#ffffff">
+  <img src="https://img.shields.io/badge/gunicorn-5D9551?style=for-the-badge&logo=gunicorn&logoColor=white" alt="gunicorn logo img"/>
+  <img src="https://img.shields.io/badge/rabbitmq-E2853D?style=for-the-badge&logo=rabbitmq&logoColor=white" "rabbitmq logo img"/>
+  <img src="https://img.shields.io/badge/nginx-419144?style=for-the-badge&logo=nginx&logoColor=#ffffff" "nginx logo img"/>
   <br/>
-  <img src="https://img.shields.io/badge/amazonec2-8E492A?style=for-the-badge&logo=amazonec2&logoColor=white">
-  <img src="https://img.shields.io/badge/amazons3-D15C4A?style=for-the-badge&logo=amazons3&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-4590B0?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/amazonec2-8E492A?style=for-the-badge&logo=amazonec2&logoColor=white" alt="amazonec2 logo img"/>
+  <img src="https://img.shields.io/badge/amazons3-D15C4A?style=for-the-badge&logo=amazons3&logoColor=white" alt="amazones3 logo img"/>
+  <img src="https://img.shields.io/badge/docker-4590B0?style=for-the-badge&logo=docker&logoColor=white" alt="docker logo img"/>
   <br/>
-  <img src="https://img.shields.io/badge/github-171516?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/githubactions-3A6FD7?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/github-171516?style=for-the-badge&logo=github&logoColor=white" "github logo img"/>
+  <img src="https://img.shields.io/badge/githubactions-3A6FD7?style=for-the-badge&logo=githubactions&logoColor=white" "githubactions logo img"/>
 </div>
 
 <div align="center">
