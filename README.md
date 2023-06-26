@@ -35,6 +35,9 @@
 
 <div align="center">
   <img src="https://ifh.cc/g/frOlgb.png"/>
+</div>
+
+<div align="center">
   <img src="https://ifh.cc/g/nVrVPh.png"/>
 </div>
 
