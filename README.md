@@ -9,7 +9,7 @@
   <p>
     <dl>
       <dd>개발기간 :</dd>
-      <dt>23.06.05 ~ 23.07.10</dt>
+      <dt font-style="normal">23.06.05 ~ 23.07.10</dt>
     </dl>
   </p>
 </div>
@@ -29,8 +29,8 @@
 <div align="center">
   <h2>🚌 팀원 소개 및 역할</h2>
   <dl>
-    <dt font-style="normal">김근혜(끈끈) - 리더</dt>
-    <dd> 
+    <dt>김근혜(끈끈) - 리더</dt>
+    <dd font-style="normal"> 
       커뮤니티  담당<br/>
       커뮤니티 CRUD<br/>
       user Admin, 금지어<br/>
