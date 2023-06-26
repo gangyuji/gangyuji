@@ -95,13 +95,14 @@
 <div align="center">
   <h2>🏡 배포 주소</h2>
 
-
+<div display="flex">
   <dl>
     <a href="https://makebestie.com/">
       <img src="https://ifh.cc/g/vato5z.png" alt="bff logo">
     </a>
   </dl>
   <dt>bffs 백엔드</dt>
+</div>
 </div>
 
 <div align="center">
