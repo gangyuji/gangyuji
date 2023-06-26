@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/rabbitmq-E2853D?style=for-the-badge&logo=rabbitmq&logoColor=#ffffff">
   <br/>
   <img src="https://img.shields.io/badge/amazonec2-8E492A?style=for-the-badge&logo=amazonec2&logoColor=#ffffff">
+  <img src="https://img.shields.io/badge/amazons3-81392B?style=for-the-badge&logo=amazons3&logoColor=#ffffff">
 </div>
 
 
