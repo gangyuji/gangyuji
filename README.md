@@ -78,11 +78,11 @@
 
 
 
-<style>
+
   .bff {
 list-style-type: none;
 }
-</style>
+
 
 <div align="center">
     <h2 font-weight="bold">🏘️ Stacks</h2>
