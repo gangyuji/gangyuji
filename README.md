@@ -74,7 +74,7 @@
 </div>
 
 <div align="center">
-  <img src="https://ifh.cc/g/Zk8KWM.png"/>
+  <img src="https://ifh.cc/g/L04w0w.png"/>
 </div>
 
 
