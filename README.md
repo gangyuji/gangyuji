@@ -21,10 +21,14 @@
 <div align="center">
   <h2>팀원 소개 및 역할</h2>
   <dl>
-    <dt font-style="none">김근혜(끈끈) - 리더</dt>
+    <dt font-style="normal">김근혜(끈끈) - 리더</dt>
     <dd>커뮤니티</dd>
     <dt>정승호(승파이더맨) - 부리더</dt>
     <dd>유저</dd>
+    <dt>황단아(딴딴) - 팀원</dt>
+    <dd>유저</dd>
+    <dt>원윤희(유니티) - 팀원</dt>
+    <dd>프로필</dd>
   </dl>
 </div>
 
