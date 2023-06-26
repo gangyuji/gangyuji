@@ -67,9 +67,9 @@
   </dl>
 </div>
 
-<div class="bff" align="center">
+<div align="center">
   <h2>🌠 BFF 핵심 기능</h2>
-  <ul class="bff">
+  <ul>
     <li>유저가 생성하는 커뮤니티, 매니저 권한과 부매니저 위임 권한 주기</li>
     <li>공동구매 모집 및 인원 제한 기능</li>
     <li>AI가 해주는 고민 상담</li>
@@ -79,9 +79,6 @@
 
 
 
-  .bff {
-list-style-type: none;
-}
 
 
 <div align="center">
