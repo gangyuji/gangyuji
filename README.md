@@ -130,7 +130,7 @@
   ### Installation
   ``` bash
   $ git clone git@github.com:Bffs-sparta/BFFs_vue.git
-  $ git clone git@github.com:Bffs-sparta/BFFs.git
+$ git clone git@github.com:Bffs-sparta/BFFs.git
   ```
 
 
