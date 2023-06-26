@@ -93,7 +93,7 @@
 </div>
 
 <div align="center">
-<a href="[makebestie.com](https://makebestie.com/)">
+<a href="https://makebestie.com/">
   <img src="https://ifh.cc/g/vato5z.png" alt="bff logo">
 </a>
 </div>
