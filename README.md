@@ -129,7 +129,24 @@
 
   ### Installation
   ``` bash
-  $ git git@github.com:Bffs-sparta/BFFs.git
+  $ git clone git@github.com:Bffs-sparta/BFFs_vue.git
+  $ git clone git@github.com:Bffs-sparta/BFFs.git
+  ```
+
+
+
+#### Frontend
+```
+$ npm install
+$ npm run serve
+```
+
+  #### Backend
+  ```
+  $ cd strapi-backend
+  $ nvm use v.14.19.3
+  $ npm install
+  $ npm run develop
   ```
 </div>
 
