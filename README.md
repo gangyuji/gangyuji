@@ -95,21 +95,22 @@
 <div align="center">
   <h2>🏡 배포 주소</h2>
     <div display="flex">
-  <dl>
-    <a href="https://api.makebestie.com/">
-      <img src="https://ifh.cc/g/gw8rYq.png" alt="bff_fe logo">
-    </a>
-  </dl>
-  <dt>bffs frontend</dt>
+      <dl>
+        <a href="https://api.makebestie.com/">
+          <img src="https://ifh.cc/g/gw8rYq.png" alt="bff_fe logo">
+        </a>
+      </dl>
+      <dt>bffs frontend</dt>
+    </div>
   </div>
   
   <div display="flex">
-  <dl>
-    <a href="https://makebestie.com/">
-      <img src="https://ifh.cc/g/vato5z.png" alt="bff_be logo">
-    </a>
-  </dl>
-  <dt>bffs backend</dt>
+    <dl>
+      <a href="https://makebestie.com/">
+        <img src="https://ifh.cc/g/vato5z.png" alt="bff_be logo">
+      </a>
+    </dl>
+    <dt>bffs backend</dt>
   </div>
 </div>
 
