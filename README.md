@@ -5,7 +5,7 @@
 
 <div align="center">
   <h2 font-weight="bold">프로젝트</h2>
-  <hr border="0"/>
+  <hr border="0" height="1"/>
 </div>
 
 
