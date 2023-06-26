@@ -137,7 +137,7 @@ $ git clone git@github.com:Bffs-sparta/BFFs.git
 
 #### Frontend
 ```
-    $ npm install
+$ npm install
 $ npm run serve
 ```
 
