@@ -155,9 +155,6 @@ $ npm install
 ```
 
   #### Backend
-</div>
-
-
 ```python
   $ .env 파일 생성
   $ poetry shell : 가상 환경 실행
@@ -168,6 +165,10 @@ $ npm install
   $ python manage.py migrate
   $ python manage.py runserver
 ```
+</div>
+
+
+
 
 
 
