@@ -95,18 +95,9 @@
 <div align="center">
   <h2>🏡 배포 주소</h2>
 </div>
-
-    <div width="auto" height="40px" display="flex">
-      <dl>
-        <a href="https://api.makebestie.com/">
-          <img src="https://ifh.cc/g/gw8rYq.png" alt="bff_fe logo">
-        </a>
-      </dl>
-      <dt>bffs frontend</dt>
-    </div>
   
-<div align="center">
-  <div width="auto" height="40px" display="flex">
+<div width="82px" height="40px"align="center">
+  <div display="flex">
       <dl>
         <a href="https://api.makebestie.com/">
           <img src="https://ifh.cc/g/gw8rYq.png" alt="bff_fe logo">
