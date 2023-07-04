@@ -10,8 +10,8 @@
   </a>
   <a href="universe.com">
   
-  <img src="https://raw.githubusercontent.com/gangyuji/github-stats-transparent/output/generated/languages.svg"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="49.2%" />
+  <img src="https://raw.githubusercontent.com/gangyuji/github-stats-transparent/output/generated/languages.svg" width="49.2%"/>
+
   </a>
 
 
