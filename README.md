@@ -6,7 +6,7 @@
 
 
   <a href="universe.com">
-    <img src="https://github-readme-stats.vercel.app/api?username=gangyuji&theme=tokyonight&show_icons=true" width="49.2%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=gangyuji&theme=tokyonight&show_icons=true" width="42%"/>
   </a>
   <a href="universe.com">
   
