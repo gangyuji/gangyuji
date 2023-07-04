@@ -9,7 +9,7 @@
   </a>
   <a href="universe.com">
   
-  <img src="https://raw.githubusercontent.com/gangyuji/github-stats-transparent/output/generated/languages.svg" width="49.2%"/>
+  <img src="https://raw.githubusercontent.com/gangyuji/github-stats-transparent/output/generated/languages.svg" width="29.2%"/>
 
   </a>
 
