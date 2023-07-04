@@ -213,7 +213,6 @@ $ npm install
     <img src="https://github-readme-stats.vercel.app/api?username=gangyuji&theme=tokyonight&show_icons=true"/>
   </a>
   <a href="universe.com">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangyuji&exclude_repo=gangyuji.github.io&layout=compact&theme=tokyonight" />
   
   <img src="https://raw.githubusercontent.com/gangyuji/github-stats-transparent/output/generated/languages.svg"/>
   </a>
