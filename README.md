@@ -5,15 +5,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=import+unittest+class&font=Redressed&size=40)](https://git.io/typing-svg)
 
 
-<div align="center"> 
   <a href="universe.com">
     <img src="https://github-readme-stats.vercel.app/api?username=gangyuji&theme=tokyonight&show_icons=true"/>
   </a>
   <a href="universe.com">
   
   <img src="https://raw.githubusercontent.com/gangyuji/github-stats-transparent/output/generated/languages.svg"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
   </a>
-</div>
+
 
 
 
