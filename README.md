@@ -219,7 +219,7 @@ $ npm install
   </a>
 </div>
 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soeun-Jang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soeun-Jang&layout=compact&hide_border=true&theme=white)
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gangyujig&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gangyuji&layout=compact&hide_border=true&theme=white)
 
 
 
